@@ -1,1 +1,1 @@
-# bootstrap
+# Introduction to and Intermediate Bootstrap
